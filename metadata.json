@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Entregas & Remuneração Multi-Empresas",
+  "description": "Sistema completo de gestão de demandas de software, pacotes de entrega com cálculo automático de complexidade, teto mensal com saldo diferido, links públicos de aprovação e assinatura digital com canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
